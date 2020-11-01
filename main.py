@@ -80,7 +80,7 @@ while True:
             # If this is not a response in our dictionary database and it is
             # not the word teach, our little friend is confused and wants to 
             # learn from us so this is where you get to teach our little friend
-            # so he is going to print out a response in the REPL and speak to 
+            # so it is going to print out a response in the REPL and speak to 
             # us as well
             if not response_ and response != 'teach':
                 display.show(Image.SURPRISED)
