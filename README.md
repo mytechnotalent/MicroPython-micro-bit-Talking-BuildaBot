@@ -31,7 +31,7 @@ from speech import say
 # pairs or in our case trigger word or words and
 # then a response as our little friend will learn
 # from us and will add what it learns into the 
-# database or db however when it loses power
+# database or db and when it loses power
 # it will forget however this is our chance
 # to build a bot of our own and teach our 
 # friend like it is a new born baby everything 
