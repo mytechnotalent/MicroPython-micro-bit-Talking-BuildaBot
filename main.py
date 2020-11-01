@@ -32,7 +32,7 @@ display.show(Image.HAPPY)
 # loop to talk to us
 while True:
     try:
-        # This is an advanced topic as well however we this little function
+        # This is an advanced topic as well however this little function
         # cleans out the unnecessary global objects or variables on what
         # we call the heap area in memory
         gc.collect()
