@@ -151,7 +151,7 @@ while True:
 
 ## STEP 8: Click Reset Button (Back Side micro:bit)
 
-## STEP 9: Interact With Baby BuildaBot and teach it everything and anything you want!
+## STEP 9: Interact With Baby BuildaBot, Teach It Everything You Want!
 This is a little itty bitty baby BuildaBot that only knows how to respond to "hi"
 or "hello" so this is a great chance to teach it everything you want by typing the word
 "teach" and then it will prompt you for a trigger word or words and then a response and
@@ -172,9 +172,33 @@ BOT: I am great thank you!
 Our little friend will forget what it learned when it loses power or gets 
 reset however this is a GREAT opportunity to learn a little Pyton and type in some things
 we would LOVE our little friend to learn and keep in its little brain forever!
-# STEP A: Edit Code
+* STEP 10A: Edit Original Code (Lines 21 - 25)
+```python
+...
+db = {
+        'hi': 'Hi to you!',
+        'hello': 'Hello to you!',
+        'how are you': 'I am great thank you!',
+     }
+...
 
+* STEP 10B: Click Save
 
+* STEP 10C: Click Flash
+
+* STEP 10D: Click REPL
+
+* STEP 10E: Click Reset Button (Back Side micro:bit)
+
+* STEP 10F: Interact With Baby BuildaBot After It Learned From You!
+*** NOTE *** Make sure your trigger word or words do not use any punctuation of any kind when teaching the bot.
+```bash
+YOU: How are you?
+BOT: I am great thank you!
+```
+
+## STEP 11: Keep On Adding To The Python Dictionary Database
+Great job!  You permanently taught little baby BuildaBot something awesome!  Now you can continue step 10 over ande over as many times as you like to keep building its knowledge base.  In the process you are also learning a little Python as what you just edited is called a Python dictionary where you get to add key and value pairs to teach our little friend ina very FUN WAY!
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
