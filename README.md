@@ -170,7 +170,7 @@ BOT: I am great thank you!
 
 ## STEP 10: Teach BuildaBot Permanently
 Our little friend will forget what it learned when it loses power or gets 
-reset however this is a GREAT opportunity to learn a little Pyton and type in some things
+reset however this is a GREAT opportunity to learn a little Python and type in some things
 we would LOVE our little friend to learn and keep in its little brain forever!
 * STEP 10A: Edit Original Code (Lines 21 - 25)
 ```python
