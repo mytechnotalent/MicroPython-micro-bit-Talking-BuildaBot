@@ -24,8 +24,8 @@ db = {
         # 'test': 'Test response!'.
      }
 
-# Our little friend wants to show how happy he is to 
-# talk to us so he smiles wide when he wakes up
+# Our little friend wants to show how happy it is to 
+# talk to us so it smiles wide when it wakes up
 display.show(Image.HAPPY)
 
 # Our little friend is going to enter in a big
