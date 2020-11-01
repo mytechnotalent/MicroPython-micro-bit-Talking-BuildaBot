@@ -157,7 +157,7 @@ or "hello" so this is a great chance to teach it everything you want by typing t
 "teach" and then it will prompt you for a trigger word or words and then a response and
 it will LEARN FROM YOU!  
 *** NOTE *** Make sure your trigger word or words do not use any punctuation of any kind when teaching the bot.
-```bash
+```
 YOU: hi
 BOT: Hi to you!
 YOU: How are you?
@@ -193,7 +193,7 @@ db = {
 
 * STEP 10F: Interact With Baby BuildaBot After It Learned From You!
 *** NOTE *** Make sure your trigger word or words do not use any punctuation of any kind when teaching the bot.
-```bash
+```
 YOU: How are you?
 BOT: I am great thank you!
 ```
