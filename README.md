@@ -10,7 +10,7 @@ This is a FUN talking BuildaBot for the official BBC micro:bit V2 where you get 
 ## Parts
 [micro:bit](COMING NOVEMBER 2020)
 
-## STEP 1: Doanload & Install Mu IDE
+## STEP 1: Download & Install Mu IDE
 [Instructions](https://www.linkedin.com/pulse/python-kids-part-2-install-mu-ide-kevin-thomas/)
 
 ## STEP 2: Plug micro:bit Into Computer
