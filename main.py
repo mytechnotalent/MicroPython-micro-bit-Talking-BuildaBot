@@ -64,7 +64,7 @@ while True:
             
             # If our little friend got a response from us then make sure
             # we trigger the speaking or suprised image so our little friend
-            # can open his mouth to talk and then have our little friend
+            # can open its mouth to talk and then have our little friend
             # talk to us in our REPL and by hearing him speak as well
             if response_:
                 display.show(Image.SURPRISED)
