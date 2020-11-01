@@ -54,7 +54,7 @@ display.show(Image.HAPPY)
 # loop to talk to us
 while True:
     try:
-        # This is an advanced topic as well however we this little function
+        # This is an advanced topic as well however this little function
         # cleans out the unnecessary global objects or variables on what
         # we call the heap area in memory
         gc.collect()
@@ -86,8 +86,8 @@ while True:
             
             # If our little friend got a response from us then make sure
             # we trigger the speaking or suprised image so our little friend
-            # can open his mouth to talk and then have our little friend
-            # talk to us in our REPL and by hearing him speak as well
+            # can open its mouth to talk and then have our little friend
+            # talk to us in our REPL and by hearing it speak as well
             if response_:
                 display.show(Image.SURPRISED)
                 print('BOT: {0}'.format(response_[0]))
@@ -102,7 +102,7 @@ while True:
             # If this is not a response in our dictionary database and it is
             # not the word teach, our little friend is confused and wants to 
             # learn from us so this is where you get to teach our little friend
-            # so he is going to print out a response in the REPL and speak to 
+            # so it is going to print out a response in the REPL and speak to 
             # us as well
             if not response_ and response != 'teach':
                 display.show(Image.SURPRISED)
