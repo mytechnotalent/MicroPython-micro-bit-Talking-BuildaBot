@@ -151,15 +151,30 @@ while True:
 
 ## STEP 8: Click Reset Button (Back Side micro:bit)
 
-## STEP 9: Interact & HAVE FUN!
+## STEP 9: Interact With Baby BuildaBot and teach it everything and anything you want!
+This is a little itty bitty baby BuildaBot that only knows how to respond to "hi"
+or "hello" so this is a great chance to teach it everything you want by typing the word
+"teach" and then it will prompt you for a trigger word or words and then a response and
+it will LEARN FROM YOU!  
+*** NOTE *** Make sure your trigger word or words do not use any punctuation of any kind when teaching the bot.
 ```bash
-micro:bit Talking TODOBot
--------------------------
-1: Create TODO Item
-2: Delete TODO Item
-3: Speak TODO Items
-ENTER CHOICE: 
+YOU: hi
+BOT: Hi to you!
+YOU: How are you?
+BOT: I do not understand.  Please type the word "teach" to teach me.
+YOU: teach
+BOT: Type Trigger Word/Words - Response: how are you - I am great thank you!
+YOU: How are you?
+BOT: I am great thank you!
 ```
+
+## STEP 10: Teach BuildaBot Permanently
+Our little friend will forget what it learned when it loses power or gets 
+reset however this is a GREAT opportunity to learn a little Pyton and type in some things
+we would LOVE our little friend to learn and keep in its little brain forever!
+# STEP A: Edit Code
+
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
