@@ -1,11 +1,8 @@
 ![image](https://github.com/mytechnotalent/MicroPython-micro-bit_Talking_BuildaBot/blob/main/MPMBTBB.png?raw=true)
 
-# MicroPython-micro-bit_Talking_BuildaBot
-This is a FUN talking BuildaBot for the official BBC micro:bit V2 where you get to build your VERY OWN TALKING BOT FROM SCRATCH!
-
 # MicroPython micro:bit
 # Talking BuildaBot
-This is a FUN talking TODOBot for the official BBC micro:bit V2.
+This is a FUN talking BuildaBot for the official BBC micro:bit V2 where you get to build your VERY OWN TALKING BOT FROM SCRATCH!
 
 ## Schematic
 ![image](https://github.com/mytechnotalent/MicroPython-micro-bit_Talking_BuildaBot/blob/main/schematic.png?raw=true)
