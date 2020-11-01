@@ -155,7 +155,7 @@ while True:
 This is a little itty bitty baby BuildaBot that only knows how to respond to "hi"
 or "hello" so this is a great chance to teach it everything you want by typing the word
 "teach" and then it will prompt you for a trigger word or words and then a response and
-it will LEARN FROM YOU!  
+it will LEARN FROM YOU!<br>
 *** NOTE *** Make sure your trigger word or words do not use any punctuation of any kind when teaching the bot.
 ```
 YOU: hi
@@ -191,7 +191,7 @@ db = {
 
 * STEP 10E: Click Reset Button (Back Side micro:bit)
 
-* STEP 10F: Interact With Baby BuildaBot After It Learned From You!
+* STEP 10F: Interact With Baby BuildaBot After It Learned From You!<br>
 *** NOTE *** Make sure your trigger word or words do not use any punctuation of any kind when teaching the bot.
 ```
 YOU: How are you?
