@@ -8,7 +8,7 @@ This is a FUN talking BuildaBot for the official BBC micro:bit V2 where you get 
 ![image](https://github.com/mytechnotalent/MicroPython-micro-bit_Talking_BuildaBot/blob/main/schematic.png?raw=true)
 
 ## Parts
-[micro:bit](COMING NOVEMBER 2020)
+[micro:bit](https://microbit.org/buy/?location=US&version=microbitV2)
 
 ## STEP 1: Download & Install Mu IDE
 [Instructions](https://www.linkedin.com/pulse/python-kids-part-2-install-mu-ide-kevin-thomas/)
