@@ -24,6 +24,9 @@ db = {
         # 'test': 'Test response!'.
      }
 
+# Customize bot speaking speed
+SPEED = 95
+
 # Our little friend wants to show how happy it is to 
 # talk to us so it smiles wide when it wakes up
 display.show(Image.HAPPY)
@@ -69,7 +72,7 @@ while True:
             if response_:
                 display.show(Image.SURPRISED)
                 print('BOT: {0}'.format(response_[0]))
-                say(str(response_[0]))
+                say(str(response_[0]), speed=SPEED)
                 display.show(Image.HAPPY)
                 
             # If you type the word "teach" pass to the next if statement for
@@ -85,7 +88,7 @@ while True:
             if not response_ and response != 'teach':
                 display.show(Image.SURPRISED)
                 print('BOT: I do not understand.  Please type the word "teach" to teach me.')
-                say('I do not understand.  Please type the word teach to teach me.')
+                say('I do not understand.  Please type the word teach to teach me.', speed=SPEED)
                 display.show(Image.HAPPY)
         
         # If we type the word "teach" then our little friend is excited to learn from us
@@ -94,7 +97,7 @@ while True:
         # little friend to respond to us
         if response == 'teach':
             display.show(Image.SURPRISED)
-            say('Type the trigger word or words. then type a dash, then type a response.')
+            say('Type the trigger word or words. then type a dash, then type a response.', speed=SPEED)
             response = input('BOT: Type Trigger Word/Words - Response: ')
             display.show(Image.HAPPY)
             if response:
