@@ -10,15 +10,27 @@ This is a FUN talking BuildaBot for the official BBC micro:bit V2 where you get 
 ## Parts
 [micro:bit](https://microbit.org/buy/?location=US&version=microbitV2)
 
-## STEP 1: Download & Install Mu IDE
-[Instructions](https://www.linkedin.com/pulse/python-kids-part-2-install-mu-ide-kevin-thomas/)
+## STEP 1: Navigate To The FREE micro:bit Python Web Editor
+[micro:bit Python Web Editor](https://python.microbit.org/v/beta)<br><br>
+![image](https://github.com/mytechnotalent/MicroPython-micro-bit_Talking_BuildaBot/blob/main/STEP%201.png?raw=true)
 
-## STEP 2: Plug micro:bit Into Computer
-***PLUG IN USB CABLE TO COMPUTER AND DEVICE***
+## STEP 2: Plug micro:bit V2 Into Computer
+***PLUG IN USB CABLE TO COMPUTER AND DEVICE**
 
-## STEP 3: Open Mu IDE
+## STEP 3: Click CONNECT
+![image](https://github.com/mytechnotalent/MicroPython-micro-bit_Talking_BuildaBot/blob/main/STEP%203.png?raw=true)
 
-## STEP 4: Type Code Into Mu IDE
+## STEP 4: Click "BBC micro:bit CMSIS-DAP" & CONNECT
+![image](https://github.com/mytechnotalent/MicroPython-micro-bit_Talking_BuildaBot/blob/main/STEP%204.png?raw=true)
+
+## STEP 5: Highlight Sample Code - Select All
+![image](https://github.com/mytechnotalent/MicroPython-micro-bit_Talking_BuildaBot/blob/main/STEP%205.png?raw=true)
+
+## STEP 6: Click Backspace On Keyboard To Delete Sample Code
+![image](https://github.com/mytechnotalent/MicroPython-micro-bit_Talking_BuildaBot/blob/main/STEP%206.png?raw=true)
+
+## STEP 7: Copy Talking TODOBot Python Code Template Into Python Web Editor
+# CODE
 ```python
 import gc
 import time
@@ -146,15 +158,21 @@ while True:
         break
 ```
 
-## STEP 5: Click Save - main.py
+## STEP 8: Rename Script Name To talking_buildabot
 
-## STEP 6: Click Flash
+## STEP 9: Click Save
+![image](https://github.com/mytechnotalent/MicroPython-micro-bit_Talking_BuildaBot/blob/main/STEP%209.png?raw=true)
 
-## STEP 7: Click REPL
+## STEP 10: Click Download Python Script
+![image](https://github.com/mytechnotalent/MicroPython-micro-bit_Talking_BuildaBot/blob/main/STEP%2010.png?raw=true)
 
-## STEP 8: Click Reset Button (Back Side micro:bit)
+## STEP 11: Click Flash
+![image](https://github.com/mytechnotalent/MicroPython-micro-bit_Talking_BuildaBot/blob/main/STEP%2011.png?raw=true)
 
-## STEP 9: Interact With Baby BuildaBot, Teach It Everything You Want!
+## STEP 12: Click Open Serial
+![image](https://github.com/mytechnotalent/MicroPython-micro-bit_Talking_BuildaBot/blob/main/STEP%2012.png?raw=true)
+
+## STEP 13: Interact With Baby BuildaBot, Teach It Everything You Want!
 This is a little itty bitty baby BuildaBot that only knows how to respond to "hi"
 or "hello" so this is a great chance to teach it everything you want by typing the word
 "teach" and then it will prompt you for a trigger word or words and then a response and
@@ -171,7 +189,7 @@ YOU: How are you?
 BOT: I am great thank you!
 ```
 
-## STEP 10: Teach BuildaBot Permanently
+## STEP 14: Teach BuildaBot Permanently
 Our little friend will forget what it learned when it loses power or gets 
 reset however this is a GREAT opportunity to learn a little Python and type in some things
 we would LOVE our little friend to learn and keep in its little brain forever!
@@ -186,22 +204,22 @@ db = {
 ...
 ```
 
-* STEP 10B: Click Save
+* STEP 9: Click Save
 
-* STEP 10C: Click Flash
+* STEP 10: Click Download Python Script
 
-* STEP 10D: Click REPL
+* STEP 11: Click Flash
 
-* STEP 10E: Click Reset Button (Back Side micro:bit)
+* STEP 12: Click Open Serial
 
-* STEP 10F: Interact With Baby BuildaBot After It Learned From You!<br>
+* STEP 15: Interact With Baby BuildaBot After It Learned From You!<br>
 *** NOTE *** Make sure your trigger word or words do not use any punctuation of any kind when teaching the bot.
 ```
 YOU: How are you?
 BOT: I am great thank you!
 ```
 
-## STEP 11: Keep On Adding To The Python Dictionary Database
+## STEP 16: Keep On Adding To The Python Dictionary Database
 Great job!  You permanently taught little baby BuildaBot something awesome!  Now you can continue step 10 over ande over as many times as you like to keep building its knowledge base.  In the process you are also learning a little Python as what you just edited is called a Python dictionary where you get to add key and value pairs to teach our little friend ina very FUN WAY!
 
 ## Contributing
