@@ -1,4 +1,4 @@
-![image](https://github.com/mytechnotalent/MicroPython-micro-bit_Talking_BuildaBot/blob/main/MPMBTBB.png?raw=true)
+![image](https://github.com/mytechnotalent/MicroPython-micro-bit_Talking_BuildaBot/blob/main/MicroPython-micro-bit%20Talking%20BuildaBot.png?raw=true)
 
 # MicroPython micro:bit
 # Talking BuildaBot
