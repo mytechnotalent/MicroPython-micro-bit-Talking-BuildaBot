@@ -116,8 +116,7 @@ while True:
     # so it will pass and redo the loop
     except IndexError:
         gc.collect()
-        pass
-        
+ 
     # If we want to end the program and get back to a REPL by pressing 
     # CTRL + C
     except KeyboardInterrupt:
