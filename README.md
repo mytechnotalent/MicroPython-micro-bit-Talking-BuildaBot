@@ -96,7 +96,6 @@ while True:
             # match an entry in the dictionary database and if it does
             # put the value in the _response object
             response_ = [val for key, val in db.items() if key in response]
-            
             gc.collect()
             
             # If our little friend got a response from us then make sure
@@ -150,7 +149,7 @@ while True:
     # so it will pass and redo the loop
     except IndexError:
         gc.collect()
-        
+ 
     # If we want to end the program and get back to a REPL by pressing 
     # CTRL + C
     except KeyboardInterrupt:
